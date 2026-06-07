@@ -13,3 +13,4 @@ Everything is stored on your browser, so your data doesn't sync automatically ac
 
 Because of YouTube's API quota limits, the show and episode data is updated every hour. This does happen automatically, but you will have to wait at most an hour to see the latest changes.
 
+
